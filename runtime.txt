@@ -60,4 +60,3 @@ jsonschema==4.17.0
 keras==2.11.0
 keyboard==0.13.5
 Kivy==2.3.0
-kivy-deps.angle==0.4.0
